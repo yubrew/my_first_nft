@@ -1,0 +1,16 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "looks rare"
+    },
+    {
+      "trait_type": "Animal",
+      "value": "dog"
+    }
+  ],
+  "description": "My first nft on ropsten!",
+  "image": "https://gateway.pinata.cloud/ipfs/QmdKpHepFF7QmYfXFrJ524e1rmvKPW8kQdK7pqeuNHkA6f",
+  "name": "Doggo"
+}
+
